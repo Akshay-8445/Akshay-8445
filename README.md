@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Akshay Pal<br>🎓 Final-year B.Tech CSE(AI) Student<br>🤖 AI & Machine Learning Enthusiast<br>🐍 Python | Java | FastAPI | LangChain<br>📈 Solving DSA & Building AI-Powered Applications<br>🚀 Open to Software Development and AI opportunities<br>🚀 AI Enthusiast | Python Developer | Building real-world solutions<br>💻 Code • Learn • Build • Repeat<br>🤖 AI Explorer | DSA Learner | Open Source Enthusiast<br>🐍 Python Developer | AI & ML Enthusiast <br>🧠 AI | Python | FastAPI | LangChain | DSA<br>🤖 AI Developer | Python • FastAPI • LangChain • DSA | Building impactful solutions 🚀<br>
+🤖 AI & Machine Learning Enthusiast<br>🐍 Python | Java | FastAPI | LangChain<br>📈 Building AI-Powered Applications<br>🚀 Open to Software Development and AI opportunities<br>| Python Developer | Building real-world solutions<br>💻 Code • Learn • Build • Repeat<br>🤖 AI Explorer | DSA Learner | AI & ML Enthusiast <br>🧠 AI | Python | FastAPI | LangChain | DSA<br>🤖 AI Developer | Python • FastAPI • LangChain • DSA | Building impactful solutions 🚀<br>
 
 
 ## 🌐 Socials:
