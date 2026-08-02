@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 AI & Machine Learning Enthusiast<br>📈 Building AI-Powered Applications<br>🚀 Open to Software Development | Building real-world solutions<br>💻 Code • Learn • Build • Repeat<br>🤖 AI Developer | Python • FastAPI • LangChain • DSA <br>
+🤖 AI & Machine Learning Enthusiast<br>📈 Building AI-Powered Applications<br>🚀 Open to Software Development | Building real-world solutions<br>💻 AI Developer | Python • FastAPI • LangChain • DSA <br>
 
 
 ## 🌐 Socials:
