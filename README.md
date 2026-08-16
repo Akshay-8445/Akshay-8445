@@ -14,4 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Counter](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
