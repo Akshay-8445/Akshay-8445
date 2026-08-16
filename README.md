@@ -15,9 +15,9 @@
 ### 🧠 AI / Machine Learning
 | Technology | Proficiency | Status |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![](https://geps.dev/progress/90?dangerColor=3776AB&warningColor=3776AB&color=3776AB) | `Production Ready` |
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | ![](https://geps.dev/progress/85?dangerColor=EE4C2C&warningColor=EE4C2C&color=EE4C2C) | `Active Use` |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![](https://geps.dev/progress/75?dangerColor=FF6F00&warningColor=FF6F00&color=FF6F00) | `Proficient` |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) | 
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | 
 
 ### 🤖 LLMs, RAG & AI Agents
 | Technology | Proficiency | Status |
