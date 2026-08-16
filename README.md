@@ -9,9 +9,9 @@
 
 
 ---
-# ⚙️🛠️Tech Stack
----
-### AI / Machine Learning
+## ⚙️🛠️Tech Stack
+
+#### AI / Machine Learning
 |    Technology    | 
 |     :---    | 
 |    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)    | 
@@ -20,7 +20,7 @@
 |    ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)    |
 |    ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)    |
 
-###  LLMs, RAG & AI Agents
+####  LLMs, RAG & AI Agents
 |    Technology    |
 |    :---    | 
 |    ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)    | 
@@ -30,7 +30,7 @@
 |    ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)    |
 
 
-### DevOps & Infrastructure
+#### DevOps & Infrastructure
 |    Technology    | 
 |    :---    | 
 |    ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)    | 
@@ -39,7 +39,7 @@
 |    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)    |
 |     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)    |
 
-### ⚡Backend & APIs
+#### ⚡Backend & APIs
 |   Technology  |
 |    :---    |
 |    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)   |
