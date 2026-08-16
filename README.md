@@ -1,6 +1,5 @@
 # ⚡ System Initialize...
-> **`[LOADING...]`** Booting up UserProfile.exe... 
-> **`[SUCCESS]`** Welcome to the digital workspace of **[Akshay Pal]**.
+**[Akshay Pal]**.
 
 <br>
 
