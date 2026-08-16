@@ -10,8 +10,6 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ### 🧠 AI / Machine Learning
 |  Technology  | 
 |  :---  | 
@@ -27,6 +25,8 @@
 |  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)   | 
 |  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  |
 |  ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)  | 
+|  ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)  |
+|  ![ChromaDB](https://img.shields.io/badge/ChromaDB-322051?style=for-the-badge&logo=databricks&logoColor=white)  |
 
 
 ### 🛠️ DevOps & Infrastructure
@@ -38,4 +38,11 @@
 |  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  |
 |  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  |
 
-    
+### ⚡Backend & APIs
+| Technology |
+|  :---  |
+|  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  |
+|  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  |
+|  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  |
+|  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-webservices&logoColor=white)  |
+
