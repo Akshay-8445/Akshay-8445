@@ -33,3 +33,6 @@
 |  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  | 
 
     
+![](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
+![](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=00A3A6)
+![](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
