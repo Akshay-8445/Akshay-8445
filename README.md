@@ -10,10 +10,7 @@
 
 ---
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Counter](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
