@@ -13,8 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-<table border="0">
-  <tr>
+
     <!-- COLUMN 1: AI & ML -->
     <td valign="top" width="33%">
       <h3 align="center">🧠 AI & Machine Learning</h3>
@@ -25,9 +24,7 @@
         <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a><br>
         <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a><br>
         <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a><br>
-      </p>
-    </td>
-
+      
   
       </p>
     </td>
