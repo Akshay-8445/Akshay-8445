@@ -1,5 +1,5 @@
 # ⚡ System Initialize...
-**Akshay Pal**.
+
 
 <br>
 
