@@ -39,7 +39,7 @@
 |    ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)    |
 |     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)    |
 
-#### ⚡Backend & APIs
+### ⚡Backend & APIs
 |   Technology  |
 |    :---    |
 |    ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)   |
