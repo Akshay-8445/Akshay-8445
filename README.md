@@ -9,8 +9,8 @@
 
 
 const developer = {
-  '''name: "[Akshay Pal]",
-  role: "[Ai Engineer/Data Analyst]"
+  name: "Akshay Pal",
+  role: "AI Engineer / Data Analyst",
   
   // Tech Stack Rows
   languages: ["Python", "SQL", "JavaScript", "TypeScript"],
@@ -19,8 +19,8 @@ const developer = {
   tools: ["Git", "GitHub", "VS Code", "Jupyter", "Docker"],
 
   // System State
-  currentFocus: "[Building Ai Based real world projects]",
-  availability: "🟢 [Open to Open-Source & Opportunities]"'''
+  currentFocus: "Building AI-based real-world projects",
+  availability: "🟢 Open to Open-Source & Opportunities"
 };
 
 
