@@ -8,6 +8,8 @@
 </div>
 
 
+export default developer;
+
 ```
 const developer = {
   name: "Akshay Pal",
@@ -25,8 +27,6 @@ const developer = {
 };
 ```
 
-
-export default developer;
 ---
 ## ⚙️🛠️Tech Stack
 
