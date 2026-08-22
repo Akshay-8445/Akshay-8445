@@ -8,6 +8,7 @@
 </div>
 
 
+```javascript
 const developer = {
   name: "Akshay Pal",
   role: "AI Engineer / Data Analyst",
@@ -22,6 +23,7 @@ const developer = {
   currentFocus: "Building AI-based real-world projects",
   availability: "🟢 Open to Open-Source & Opportunities"
 };
+```
 
 
 export default developer;
