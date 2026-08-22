@@ -9,7 +9,7 @@
 
 
 const developer = {
-  name: "[Akshay Pal]",
+  '''name: "[Akshay Pal]",
   role: "[Ai Engineer/Data Analyst]"
   
   // Tech Stack Rows
@@ -20,7 +20,7 @@ const developer = {
 
   // System State
   currentFocus: "[Building Ai Based real world projects]",
-  availability: "🟢 [Open to Open-Source & Opportunities]"
+  availability: "🟢 [Open to Open-Source & Opportunities]"'''
 };
 
 
