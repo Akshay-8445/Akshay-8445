@@ -8,7 +8,7 @@
 </div>
 
 
-```javascript
+```
 const developer = {
   name: "Akshay Pal",
   role: "AI Engineer / Data Analyst",
