@@ -16,7 +16,7 @@ const developer = {
   // Tech Stack Rows
   languages: ["Python", "SQL", "JavaScript", "TypeScript"],
   aiAndLLMs: ["LangChain", "OpenAI", "Gemini", "Claude", "ChromaDB"],
-  dataAndCloud: ["Google Cloud", "BigQuery", "Pandas", "NumPy"],
+  dataAndCloud: ["Google Cloud", "AWS", "Pandas", "NumPy"],
   tools: ["Git", "GitHub", "VS Code", "Jupyter", "Docker"],
 
   // System State
